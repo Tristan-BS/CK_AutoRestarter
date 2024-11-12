@@ -1,0 +1,4 @@
+name: CK_AutoRestarter
+version: 1.0
+main: CK_AutoRestarter.CK_Autorestarter
+api-version: 1.21.1
